@@ -1,0 +1,34 @@
+{
+    "name": "BadApplePlayer",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "BadApple": {
+                "$path": "src/ReplicatedStorage/BadApple"
+            },
+            "Rick": {
+                "$path": "src/ReplicatedStorage/Rick"
+            },
+            "Grass": {
+                "$path": "src/ReplicatedStorage/Grass"
+            },
+            "Yararara": {
+                "$path": "src/ReplicatedStorage/Yararara"
+            },
+            "VanityStar": {
+                "$path": "src/ReplicatedStorage/VanityStar"
+            },
+            "BUTCHER VANITY ft. Yi Xi": {
+                "$path": "src/ReplicatedStorage/BUTCHER VANITY ft. Yi Xi"
+            }
+        },
+        "ServerScriptService": {
+            "$path": "src/ServerScriptService"
+        },
+        "StarterPlayer": {
+            "StarterPlayerScripts": {
+                "$path": "src/StarterPlayer/StarterPlayerScripts"
+            }
+        }
+    }
+}
